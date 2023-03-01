@@ -1,2 +1,0 @@
-a="Haa"
-print(a)
